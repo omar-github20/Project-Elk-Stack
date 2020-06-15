@@ -1,7 +1,7 @@
 
 # Project-Elk-Stack
 
-## Automated ELK Stack DeploymentThe 
+## The Automated ELK Stack Deployment
 The files in this repository were used to configure the network depicted below.
 
 ![](https://github.com/omar-github20/Project-Elk-Stack/blob/master/Network/ELK-Stack-Project.jpg)
